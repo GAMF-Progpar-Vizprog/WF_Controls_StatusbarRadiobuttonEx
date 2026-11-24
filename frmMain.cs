@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace StatusbarRadiobuttonEx
+namespace WF_Controls_StatusbarRadiobuttonEx
 {
   
   public enum PanelIndices

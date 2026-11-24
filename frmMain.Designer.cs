@@ -1,5 +1,5 @@
 ﻿
-namespace StatusbarRadiobuttonEx
+namespace WF_Controls_StatusbarRadiobuttonEx
 {
 	partial class frmMain
 	{
